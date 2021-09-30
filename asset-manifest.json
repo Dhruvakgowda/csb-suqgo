@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dhruvakgowda.github.io/csb-suqgo/static/css/main.144883eb.chunk.css",
+    "main.js": "https://dhruvakgowda.github.io/csb-suqgo/static/js/main.9e784245.chunk.js",
+    "main.js.map": "https://dhruvakgowda.github.io/csb-suqgo/static/js/main.9e784245.chunk.js.map",
+    "runtime-main.js": "https://dhruvakgowda.github.io/csb-suqgo/static/js/runtime-main.5cf3652f.js",
+    "runtime-main.js.map": "https://dhruvakgowda.github.io/csb-suqgo/static/js/runtime-main.5cf3652f.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://dhruvakgowda.github.io/csb-suqgo/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://dhruvakgowda.github.io/csb-suqgo/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://dhruvakgowda.github.io/csb-suqgo/index.html",
+    "static/css/main.144883eb.chunk.css.map": "https://dhruvakgowda.github.io/csb-suqgo/static/css/main.144883eb.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://dhruvakgowda.github.io/csb-suqgo/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cf3652f.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.144883eb.chunk.css",
+    "static/js/main.9e784245.chunk.js"
+  ]
+}
